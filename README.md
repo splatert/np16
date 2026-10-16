@@ -10,6 +10,7 @@ taskbar status: ![alt text](/trayicon_connect.png) ![alt text](/trayicon_away.pn
 
 ![alt text](glass/trayicon_connect.png) ![alt text](glass/trayicon_away.png) ![alt text](glass/trayicon_disconnect.png) ![alt text](glass/trayicon_msg.png)
 
+![alt text](globe/trayicon_connect.png) ![alt text](globe/trayicon_away.png) ![alt text](globe/trayicon_disconnect.png) ![alt text](globe/trayicon_msg.png)
 
 ![alt text](2colors/trayicon_connect.png) ![alt text](2colors/trayicon_away.png) ![alt text](2colors/trayicon_disconnect.png) ![alt text](2colors/trayicon_msg.png)
 
