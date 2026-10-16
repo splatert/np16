@@ -1,5 +1,5 @@
 # np16
-Icon set for ![alt text](/n.png) Nicotine+
+Random icon sets I've designed for ![alt text](/n.png) Nicotine+
 
 
 ### Desktop icon
